@@ -9,7 +9,7 @@ function addBurger() {
 }
 
 // if statement
-if (true) {
+if(true) {
   // Block-scoped variable
   const anotherNewBurger = "Maple Bacon Burger";
 
